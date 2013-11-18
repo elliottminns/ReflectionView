@@ -219,6 +219,7 @@
 
 - (void)layoutSubviews
 {
+    [super layoutSubviews];
     [self update];
 }
 
